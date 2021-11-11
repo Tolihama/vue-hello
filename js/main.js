@@ -7,5 +7,6 @@ const app = new Vue({
     el: '#app',
     data: {
         title: 'Vue Hello',
+        vueLogo: 'https://vuejs.org/images/logo.svg',
     },
 });
